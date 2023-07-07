@@ -1,2 +1,2 @@
 My first readme
-I am using github webApp to make an update
+How to be up to date in git
